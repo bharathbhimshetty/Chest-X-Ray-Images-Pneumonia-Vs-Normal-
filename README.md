@@ -4,3 +4,5 @@ Pneumonia is an inflammatory condition of the lung affecting primarily the small
 * To classify the given X-Rays into Normal or Pnuemonia using CNN VGG-16 Architechture.  
 ## Dataset: 
 * https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
+* Total of 6000 Images of X-Rays.
+
